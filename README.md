@@ -2,8 +2,11 @@
 Project Topic :IPL
 Reference : DLithe  
 Website : www.dlithe.com
+
 Project done under the guidance of : DLithe
+
 Done by: Amit Kumar , USN-1by18mca04
+
 TITLE : IPL Analysis using Machine learning models
 
  objective: In today’s date data analysis is need for every data analytics to examine the sets of data to extract the
